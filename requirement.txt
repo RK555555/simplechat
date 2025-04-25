@@ -1,9 +1,8 @@
-streamlit
-torch
+fastapi
+uvicorn
+pydantic
 transformers
-pandas
-nltk
-scikit-learn
 accelerate
-janome
+sentencepiece
+protobuf
 pyngrok
